@@ -1,0 +1,9 @@
+title: 我的博客
+description: 用 Jekyll 搭建的个人博客
+theme: minima
+---
+layout: home
+---
+
+# 欢迎来到我的博客
+这里会陆续发布技术笔记和生活思考。
